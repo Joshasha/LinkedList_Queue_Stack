@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Linkedlist_Stack_&_Queue\bin\Debug\net8.0\Sq20.Net-Week4_Task.exe
+C:\Users\user\Desktop\Linkedlist_Stack_&_Queue\bin\Debug\net8.0\Sq20.Net-Week4_Task.deps.json
+C:\Users\user\Desktop\Linkedlist_Stack_&_Queue\bin\Debug\net8.0\Sq20.Net-Week4_Task.runtimeconfig.json
+C:\Users\user\Desktop\Linkedlist_Stack_&_Queue\bin\Debug\net8.0\Sq20.Net-Week4_Task.dll
+C:\Users\user\Desktop\Linkedlist_Stack_&_Queue\bin\Debug\net8.0\Sq20.Net-Week4_Task.pdb
+C:\Users\user\Desktop\Linkedlist_Stack_&_Queue\obj\Debug\net8.0\Sq20.Net-Week4_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Linkedlist_Stack_&_Queue\obj\Debug\net8.0\Sq20.Net-Week4_Task.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Linkedlist_Stack_&_Queue\obj\Debug\net8.0\Sq20.Net-Week4_Task.AssemblyInfo.cs
+C:\Users\user\Desktop\Linkedlist_Stack_&_Queue\obj\Debug\net8.0\Sq20.Net-Week4_Task.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Linkedlist_Stack_&_Queue\obj\Debug\net8.0\Sq20.Net-Week4_Task.sourcelink.json
+C:\Users\user\Desktop\Linkedlist_Stack_&_Queue\obj\Debug\net8.0\Sq20.Net-Week4_Task.dll
+C:\Users\user\Desktop\Linkedlist_Stack_&_Queue\obj\Debug\net8.0\refint\Sq20.Net-Week4_Task.dll
+C:\Users\user\Desktop\Linkedlist_Stack_&_Queue\obj\Debug\net8.0\Sq20.Net-Week4_Task.pdb
+C:\Users\user\Desktop\Linkedlist_Stack_&_Queue\obj\Debug\net8.0\Sq20.Net-Week4_Task.genruntimeconfig.cache
+C:\Users\user\Desktop\Linkedlist_Stack_&_Queue\obj\Debug\net8.0\ref\Sq20.Net-Week4_Task.dll

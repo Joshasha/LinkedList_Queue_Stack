@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sq20.Net-Week4_Task/1.0.0": {
+        "runtime": {
+          "Sq20.Net-Week4_Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sq20.Net-Week4_Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
